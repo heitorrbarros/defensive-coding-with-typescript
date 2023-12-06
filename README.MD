@@ -1,4 +1,4 @@
-# Project Title
+# Defensive Coding with Typescript
 
 This project is a TypeScript application. The main entry point of the application is `index.ts`.
 
