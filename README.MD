@@ -37,9 +37,10 @@ This command will start the application in development mode, with hot-reloading 
 * npm - Dependency Management
 
 # Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.MD) for details on our code of conduct, and the process for submitting pull requests to us.
 
 # Authors
 heitorrbarros
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# License
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.MD) file for details
